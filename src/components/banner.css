@@ -1,0 +1,40 @@
+ul {
+    display: inline;
+}
+li {
+    display: inline;
+    margin-right: 55px;
+}
+
+a {
+    color: black;
+}
+
+.bold {
+    font-weight: 700;
+}
+.banner-bg {
+    background-color: #c4c4c4;
+    padding-top: 23px;
+    padding-bottom: 22px;
+    padding-left: 59px;
+    padding-right: 26px;
+}
+.logo {
+    font-family: "Sevillana";
+    font-size: 48px;
+}
+.categories {
+    text-align: right;
+    font-family: 'Roboto';
+    font-size: 26px;
+    padding-top: 18px;
+}
+.squizzed {
+    padding-left: 73px;
+    padding-right: 73px;
+}
+.banner {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}

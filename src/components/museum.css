@@ -1,0 +1,14 @@
+.card {
+    padding: 44px;
+    text-align: center;
+    background-color: #c4c4c4;
+    border: 1px solid black;
+}
+.card-title {
+    font-family: 'Roboto';
+    font-size: 32px;
+}
+.card-text {
+    font-family: 'Roboto';
+    font-size: 20px;
+}

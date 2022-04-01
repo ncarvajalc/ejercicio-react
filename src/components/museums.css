@@ -1,0 +1,27 @@
+.squizzed {
+    padding-left: 73px;
+    padding-right: 73px;
+}
+
+.extra-squizzed {
+    padding-left: 160px;
+    padding-right: 160px;
+}
+
+.category-title-bg {
+    background-color: #c4c4c4;
+    height: 67px;
+    padding-top: 14px;
+}
+
+.category-title {
+    font-family: 'Roboto';
+    font-weight: 700;
+    text-align: center;
+    font-size: 32px;
+}
+.divisor-line {
+    border: 1px solid black;
+    margin-top: 22px;
+    margin-bottom: 39px;
+}
